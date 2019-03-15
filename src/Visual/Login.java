@@ -1,6 +1,6 @@
 package Visual;
 import java.sql.*;
-import Dal.ConctaBd;
+import Banco.ConctaBd;
 import javax.swing.JOptionPane;
 
 

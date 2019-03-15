@@ -1,4 +1,4 @@
-package Dal;
+package Banco;
 
 import java.sql.*;
 import javax.swing.JOptionPane;
