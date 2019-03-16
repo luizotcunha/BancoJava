@@ -29,6 +29,7 @@ public class Login extends javax.swing.JFrame {
                 frmPrincipal frm = new frmPrincipal();
                 frm.setVisible(true);
                 disable();
+                //leo
             }
             else{
                 JOptionPane.showMessageDialog(null,"Usuario e senha invalidos");
